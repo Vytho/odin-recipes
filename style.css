@@ -1,0 +1,33 @@
+.body {
+    background-color: lightgreen;
+}
+
+.first-heading {
+    font-size: 35px;
+    color: red;
+    text-align: center;
+}
+
+.intro {
+    font-style: italic;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.main-picture {
+    width: 500px;
+    height: auto;
+}
+
+.right {
+    text-align: right;
+}
+
+
+.home-button {
+    background-color: burlywood;
+    font-size: 20px;
+}
